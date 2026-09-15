@@ -136,3 +136,5 @@ python -m pytest -v
 ## 📄 Licença
 
 Este projeto é livre para fins de estudo e portfólio.
+
+docker compose up -d --build
